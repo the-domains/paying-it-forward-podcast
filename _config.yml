@@ -2,6 +2,7 @@ name: Paying It Forward Podcast
 favicon: null
 layout_spectrum: 0.1770957917906344
 typography_spectrum: 0.11640690686181188
+title: Paying It Forward Podcast
 cta:
   domain: null
   bucket: null
